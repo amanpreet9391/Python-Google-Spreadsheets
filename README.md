@@ -2,10 +2,14 @@
 To remove/add/get data from Google Spreadsheets using Python
 ## Steps
 
-(1) Go to google developers console [link](https://www.youtube.com/redirect?q=https%3A%2F%2Fconsole.developers.google.com&v=7I2s81TsCnc&event=video_description&redir_token=JVX1cS-KrucXR1BzKHqzTXJj2Pl8MTU3NDI0OTY2NkAxNTc0MTYzMjY2) </br>
+(1) Go to google developers console [link](https://console.developers.google.com) </br>
 (2) Create a project </br>
+![project-python-google](https://user-images.githubusercontent.com/25201552/69144449-55bbf980-0af1-11ea-9cd6-9112fd082fd3.png)
+
 (3) Then enable few API’s - Google Drive API and Google Sheets API. </br>
 (4) Create credentials - ServiceaccountKey </br>
+
+![cred-python-google](https://user-images.githubusercontent.com/25201552/69144227-d62e2a80-0af0-11ea-9c49-fd1d4734fec1.png)</br>
 (5) Then it will download a json file which will contain credentials. </br>
 (6) From that json file copy the “CLIENT EMAIL ADDRESS” </br>
 (7) Then create a google spreadsheet and share the sheet with client email address. </br>
