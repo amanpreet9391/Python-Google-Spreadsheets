@@ -1,4 +1,4 @@
-# Python-Google_Spreadsheets
+# Python-Google-Spreadsheets
 To remove/add/get data from Google Spreadsheets using Python
 ## Steps
 
